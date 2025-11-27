@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "project_id": "4acbafab-4037-4371-80ad-2de5ccd00e01",
+      "project_name": "test-1",
+      "input_filename": "bf466d1b-6ce8-4175-bfbc-ffc62e8f97cf.xlsx",
+      "books_path": "/home/nyaaz/Documents/Programming/1-Z3R0/Optima/carbomica-main/projects/4acbafab-4037-4371-80ad-2de5ccd00e01/books",
+      "created_at": "2025-11-27T09:32:36.080287Z",
+      "has_outputs": true,
+      "start_year": 2026,
+      "facility_code": "AKHS_Mombasa"
+    }
+  ]
+}

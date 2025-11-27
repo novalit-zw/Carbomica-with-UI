@@ -1,0 +1,17 @@
+{
+  "project_name": "test-1",
+  "start_year": 2026,
+  "facility_code": "AKHS_Mombasa",
+  "input_filename": "bf466d1b-6ce8-4175-bfbc-ffc62e8f97cf.xlsx",
+  "scenarios": [
+    {
+      "name": "tst",
+      "spending": 100000.0,
+      "budgets": [
+        20000.0,
+        50000.0,
+        100000.0
+      ]
+    }
+  ]
+}

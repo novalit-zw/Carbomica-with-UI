@@ -1,0 +1,15 @@
+{
+  "optimization_Emissions_AKHS_Mombasa.png": {
+    "file": "optimization_Emissions_AKHS_Mombasa.png",
+    "type": "emissions",
+    "title": "Emissions",
+    "created_at": "2025-11-27T09:54:55.804730Z",
+    "facility": "AKHS_Mombasa"
+  },
+  "optimization_Budget_Allocation_AKHS_Mombasa.png": {
+    "file": "optimization_Budget_Allocation_AKHS_Mombasa.png",
+    "type": "allocation",
+    "title": "Budget allocation",
+    "created_at": "2025-11-27T09:54:56.402861Z"
+  }
+}

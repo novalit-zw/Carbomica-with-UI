@@ -1,0 +1,12 @@
+Install npm and Pip
+
+Install necessary libraries for each
+(see requirements.txt and 'frontend libraries.txt')
+
+
+TO RUN PROGRAM:
+backend: 
+python -m uvicorn engine_api:app --reload --port 8000
+
+frontend:
+NEXT_DISABLE_TURBOPACK=1 npm run dev
